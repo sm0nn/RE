@@ -22,13 +22,15 @@ In der heutigen Arbeitswelt ohne den Einsatz von passender Software bestehen? Ka
 
 ---
 ## Bücher
-| OneDrive |                            Cover                            | Titel                                                                                                                                                                                      |
-|:--------:|:-----------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|    ✔️    | ![](https://bilderupload.org/image/26dd84088-unbenannt.jpg) | [100 Minuten für Anforderungsmanagement: Kompaktes Wissen nicht nur für Projektleiter und Entwickler](https://www.springerprofessional.de/100-minuten-fuer-anforderungsmanagement/4316010) |
-|    ✔️    | ![](https://bilderupload.org/image/33bb33635-unbenannt.jpg) | [Basiswissen Requirements Engineering](https://dpunkt.de/produkt/basiswissen-requirements-engineering/)                                                                                    |
-|    ✔️    | ![](https://bilderupload.org/image/420634622-unbenannt.jpg) | [Grundlagen der Anforderungsanalyse: Standardkonformes Requirements Engineering](https://www.springerprofessional.de/grundlagen-der-anforderungsanalyse/20346584)                          |
-|    ✔️    | ![](https://bilderupload.org/image/2cfa34905-unbenannt.jpg) | [Business Analysis und Requirements Engineering: Produkte und Prozesse nachhaltig verbessern ](https://www.hanser-kundencenter.de/fachbuch/artikel/9783446457348)                          |
-|    ✔️    | ![](https://bilderupload.org/image/33bb33192-unbenannt.jpg) | [Requirements-Engineering und -Management: Das Handbuch für Anforderungen in jeder Situation](https://www.hanser-kundencenter.de/fachbuch/artikel/9783446455870)                           |
+| OneDrive   | Titel                                                                                                                                                                                       |
+|:------------:|:--------------------------------
+
+| ✔️         | [100 Minuten für Anforderungsmanagement: Kompaktes Wissen nicht nur für Projektleiter und Entwickler](https://www.springerprofessional.de/100-minuten-fuer-anforderungsmanagement/4316010)  |
+| ✔️         | [Basiswissen Requirements Engineering](https://dpunkt.de/produkt/basiswissen-requirements-engineering/)                                                                                     |
+| ✔️         | [Grundlagen der Anforderungsanalyse: Standardkonformes Requirements Engineering](https://www.springerprofessional.de/grundlagen-der-anforderungsanalyse/20346584)                           |
+| ✔️         | [Business Analysis und Requirements Engineering: Produkte und Prozesse nachhaltig verbessern ](https://www.hanser-kundencenter.de/fachbuch/artikel/9783446457348)                           |
+| ✔️         | [Requirements-Engineering und -Management: Das Handbuch für Anforderungen in jeder Situation](https://www.hanser-kundencenter.de/fachbuch/artikel/9783446455870)                            |
+
 
 ---
 ## Zertifizierung
